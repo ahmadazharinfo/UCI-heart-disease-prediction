@@ -16,28 +16,21 @@ A machine learning project to predict the likelihood of heart disease in patient
 
 ## File Structure
 
-Heart_Disease_Project/
-│
-├── data/
-│ └── heart_disease.csv
-│
-├── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_pca_analysis.ipynb
-│ ├── 03_feature_selection.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ └── 06_hyperparameter_tuning.ipynb
-│
-├── models/
-│ └── final_model.pkl 
-│
-├── ui/
-│ └── app.py
-│
-├── results/
-│ └── evaluation_metrics.txt
-│
-├── README.md
-└── requirements.txt
-
+```text
+📁 Heart_Disease_Project/
+├─ 📂 data/
+│  └─ 🗃️ heart_disease.csv
+├─ 📂 notebooks/
+│  ├─ 📓 01_data_preprocessing.ipynb
+│  ├─ 📓 02_pca_analysis.ipynb
+│  ├─ 📓 03_feature_selection.ipynb
+│  ├─ 📓 04_supervised_learning.ipynb
+│  ├─ 📓 05_unsupervised_learning.ipynb
+│  └─ 📓 06_hyperparameter_tuning.ipynb
+├─ 📂 models/
+│  └─ 🧠 final_model.pkl
+├─ 📂 ui/
+│  └─ 🎈 app.py
+├─ 📂 results/
+│  └─ 📊 evaluation_metrics.txt
+└─ 📄 requirements.txt
