@@ -1,0 +1,13 @@
+Baseline Random Forest Accuracy: 0.9085365853658537
+              precision    recall  f1-score   support
+
+           0       0.87      0.82      0.84        33
+           1       0.89      0.78      0.83        32
+           2       0.94      0.97      0.96        33
+           3       0.89      0.97      0.93        33
+           4       0.94      1.00      0.97        33
+
+    accuracy                           0.91       164
+   macro avg       0.91      0.91      0.91       164
+weighted avg       0.91      0.91      0.91       164
+
